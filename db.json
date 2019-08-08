@@ -1,9 +1,281 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+
+  "Chest": [
+    {
+      "id": "1",
+      "WO": "Push-Back",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=04p4MWfhpAI"
+    },
+    {
+      "id": "2",
+      "WO": "YTWL",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=tbvq18eKJ5Q"
+    },
+    {
+      "id": "3",
+      "WO": "Wall Handstand Push-up",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=ZQd9R9Dqvts"
+    },
+    {
+      "id": "4",
+      "WO": "Push-Up",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=psxMJN7BqIM"
+    },
+    {
+      "id": "5",
+      "WO": "Wide-Width Push-Up",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=rr6eFNNDQdU"
+    },
+    {
+      "id": "6",
+      "WO": "Torso-Elevated Push-Up",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=QZN2PcBFAwg"
+    },
+    {
+      "id": "7",
+      "WO": "Feet-Elevated Push-Up",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=QtAqd4lxv88"
+    },
+    {
+      "id": "8",
+      "WO": "Side-lo-Side Push-Up",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=Ro1YZsjJqNE"
+    },
+    {
+      "id": "9",
+      "WO": "Sliding Side-to-Side Push-Up",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=of5LbG_Vlm8"
+    },
+    {
+      "id": "10",
+      "WO": "One-Arm Push-Up",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=5nS74CaNm8M"
+    },
+    {
+      "id": "11",
+      "WO": "Chest Dip",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=fxjacLdnT2M"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "Core": [
+    {
+      "id": "1",
+      "WO": "Crunch",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=Xyd_fa5zoEU"
+    },
+    {
+      "id": "2",
+      "WO": "Reverse Crunch",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=hyv14e2QDq0"
+    },
+    {
+      "id": "3",
+      "WO": "Side Crunch",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=FrFyUbxs1uQ"
+    },
+    {
+      "id": "4",
+      "WO": "L Sit",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=IUZJoSP66HI"
+    },
+    {
+      "id": "5",
+      "WO": "Lying Straight-Leg Raise",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=JB2oyawG9KI"
+    },
+    {
+      "id": "6",
+      "WO": "Twisting Sit-Up",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=NZ1oOuj2L2k"
+    },
+    {
+      "id": "7",
+      "WO": "Front Plank",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=TvxNkmjdhMM"
+    },
+    {
+      "id": "8",
+      "WO": "Feet-Elevated Front Plank",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=iXgloiOHFNE"
+    },
+    {
+      "id": "10",
+      "WO": "Side Plank",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=NXr4Fw8q60o"
+    },
+    {
+      "id": "11",
+      "WO": "Short-Lever Side Plank",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=y_WW7_c4O8k"
+    },
+    {
+      "id": "12",
+      "WO": "Feet-Elevated Side Plank",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=rCTRrirA_cw"
+    },
+    {
+      "id": "13",
+      "WO": "Windshield Wiper",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=X59_4RrU_aA"
+    },
+    {
+      "id": "14",
+      "WO": "Standing Rollout",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=5Tc7yKQysVQ"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "Back": [
+    {
+      "id": "1",
+      "WO": "Pull-Up",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=XB_7En-zf_M"
+    },
+    {
+      "id": "2",
+      "WO": "Side-to-Side Pull-Up",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=_2TllW38F24"
+    },
+    {
+      "id": "3",
+      "WO": "Towel Pull-Up",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=fwmUZ9qMmYc"
+    },
+    {
+      "id": "4",
+      "WO": "Feet-Elevated Inverted Row",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=IrIYsh0dBt4"
+    },
+    {
+      "id": "5",
+      "WO": "Towel Inverted Row",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=qw1ewHcPo5k"
+    },
+    {
+      "id": "6",
+      "WO": "One-Arm Inverted Row",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=17XxJ5Quy6g"
+    },
+    {
+      "id": "7",
+      "WO": "Towel Face Pull",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=upS-3_worok"
+    }
+  ],
+  "Leg": [
+    {
+      "id": "1",
+      "WO": "Sumo Squat",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=9ZuXKqRbT9k"
+    },
+    {
+      "id": "2",
+      "WO": "Wall Squat Isohold",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=-0Q7Lds7B8A"
+    },
+    {
+      "id": "3",
+      "WO": "Full Squat",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=Xz5fUtv_NCA"
+    },
+    {
+      "id": "4",
+      "WO": "Jump Full Squat",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=DeTBwEL4m7s"
+    },
+    {
+      "id": "5",
+      "WO": "Single-Leg Box Squat",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=uJ4eA2wUXdw"
+    },
+    {
+      "id": "7",
+      "WO": "Jumping Single-Leg Box Squat",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=li8YRh_VYRA"
+    },
+    {
+      "id": "8",
+      "WO": "Skater Squat",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=MG5TXA6M1gI"
+    },
+    {
+      "id": "9",
+      "WO": "Pistol Squat",
+      "LV": "4",
+      "Link": "https://www.youtube.com/watch?v=7NvOuty_Fnc"
+    },
+    {
+      "id": "10",
+      "WO": "Forward Lunge",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=7SMzPn4LGjQ"
+    },
+    {
+      "id": "11",
+      "WO": "Alternating Jump Lunge",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=y7Iug7eC0dk"
+    },
+    {
+      "id": "12",
+      "WO": "Reverse Lunge",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=raQl44N_REc"
+    },
+    {
+      "id": "13",
+      "WO": "Step-Up",
+      "LV": "1",
+      "Link": "https://www.youtube.com/watch?v=nAl0t57yPD4"
+    },
+    {
+      "id": "14",
+      "WO": "Bulgarian Split Squat",
+      "LV": "2",
+      "Link": "https://www.youtube.com/watch?v=2C-uNgKwPLE"
+    },
+    {
+      "id": "15",
+      "WO": "Jump Split Squat",
+      "LV": "3",
+      "Link": "https://www.youtube.com/watch?v=rl1qLrH1Zpc"
+    }
+  ]
 }
